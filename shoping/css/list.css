@@ -1,0 +1,104 @@
+.nav {
+	overflow: hidden;
+}
+.sk {
+	position: absolute;
+	top: 40px;
+	left: 190px;
+	padding-left: 20px;
+	border-left:1px solid red ;
+}
+.sk_list {
+	float: left;
+}
+.sk_list ul li{
+	float: left;
+}
+.sk_list ul li a {
+	display: block;
+	line-height: 47px;
+	padding: 0 30px;
+	font-size: 16px;
+	font-weight: 700px;
+	color: #000;
+}
+.sk_right ul li{
+	float: left;
+}
+.sk_right ul li a{
+	line-height: 40px;
+	display: block;
+	float: left;
+	padding: 0 20px;
+}
+.sk_right ul li:last-child a::after {
+	content: '\e91e';
+	font-family: 'icomoon';
+}
+
+.sk_bd ul li {
+	overflow: hidden;
+	float: left;
+	margin-right:13px;
+	width: 290px;
+	height: 460px;
+	border: 1px solid transparent;
+}
+.sk_bd ul li:nth-child(4n){
+	margin-right: 0;
+}
+.sk_bd ul li:hover {
+	border: 1px solid red;
+}
+
+/* 新增 */
+.clearfix h5 {
+	margin: 0 10px;
+}
+.clearfix .bl {
+	margin:10px 15px;
+	float: left;
+	font-size: 18px;
+	color: red;
+}
+.clearfix .br {
+	margin-top: 10px;
+	padding-top: 5px;
+	float: left;
+	font-size: 12px;
+	color: #ccc;
+	text-line-through-color: #ccc;
+}
+.jdt {
+	clear: both;
+	width: 290px;
+	/* background-color: #00C818; */
+}
+
+.kuang {
+	float: left;
+    width: 150px;
+    height: 15px;
+    border: 1px solid red;
+    border-radius: 7px;
+    padding: 1px;
+}
+.ll,.rr {
+	padding-left: 10px;
+	float: left;
+}
+.nei {
+    width: 50%;
+    height: 100%;
+    background-color: red;
+    transition: all .7s;
+}
+.btm {
+	clear: both;
+	background-color: #e60f00;
+	text-align: center;
+	color: #FFFFFF;
+	padding: 20px;
+	font-size: 16px;
+	margin-top: 5px;
+}
