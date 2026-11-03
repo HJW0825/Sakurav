@@ -4,4 +4,5 @@
 3. 运用 CSS transition、animation 实现动画效果
 4. 引入 icon-font 字体图标美化页面
 
-项目入口：[品优购页面入口](https://hjw0825.github.io/Sakurav/shoping/index.html)
+品优购：[品优购页面入口](https://hjw0825.github.io/Sakurav/shoping/index.html)
+学成在线：[学成在线页面入口](https://hjw0825.github.io/Sakurav/%E5%AD%A6%E6%88%90%E5%9C%A8%E7%BA%BFstudy/index.html)
