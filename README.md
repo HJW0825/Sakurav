@@ -15,4 +15,6 @@ bibi移动端官网：[bibi移动端官网](https://hjw0825.github.io/Sakurav/m-
 
 苏宁易购官网：[苏宁案例rem](https://hjw0825.github.io/Sakurav/%E8%8B%8F%E5%AE%81%E6%A1%88%E4%BE%8Brem/index.html)
 携程在线：[携程H5](https://hjw0825.github.io/Sakurav/%E6%90%BA%E7%A8%8BH5/index.html)
+
+自制软件：[中国话术概括](https://hjw0825.github.io/Sakurav/%E4%B8%AD%E5%9B%BD%E8%AF%9D%E6%9C%AF%E6%A6%82%E6%8B%AC/index.html)
 # 企业招聘联系：13283511038
